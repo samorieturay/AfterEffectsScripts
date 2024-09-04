@@ -1,7 +1,7 @@
-#After Effects Automation Script
+# After Effects Automation Script
 This repository contains a JavaScript script that automates various tasks in Adobe After Effects. The script creates a user-friendly interface to apply different expressions to selected layers within a composition, streamlining workflows and reducing manual tasks.
 
-##Features
+## Features
 
 * Bounce Expression: Automatically applies a bounce effect to the selected properties.
 * Inertia Expression: Adds an inertia expression, simulating realistic motion physics.
@@ -9,7 +9,7 @@ This repository contains a JavaScript script that automates various tasks in Ado
 * Time * 800 Expression: Multiplies the time by 800, creating a fast-forward effect.
 * Wiggle Expression: Applies a wiggle effect with customizable frequency and amplitude.
 * 
-##Usage
+## Usage
 1. Open After Effects.
 2. Run the script through File>Scripts> Run Script and select the file
 3. A panel will appear with buttons for each of the available expressions.
